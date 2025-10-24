@@ -24,10 +24,10 @@ The goal is simple: guide the snake to eat the food, grow as long as possible, a
 2.  **Run the game:**
     `python main.py`
 3.  **Controls:**
-    * **Up:** `ArrowUp` or `W`
-    * **Down:** `ArrowDown` or `S`
-    * **Left:** `ArrowLeft` or `A`
-    * **Right:** `ArrowRight` or `D`
+    * **Up:** `ArrowUp`
+    * **Down:** `ArrowDown` 
+    * **Left:** `ArrowLeft` 
+    * **Right:** `ArrowRight`
 
 ## Technologies Used
 
