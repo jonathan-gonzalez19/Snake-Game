@@ -19,7 +19,7 @@ The goal is simple: guide the snake to eat the food, grow as long as possible, a
 
 1.  **Get the code:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
+    git clone https://github.com/jonathan-gonzalez19/Snake-Game.git
     ```
 2.  **Run the game:**
     `python main.py`
