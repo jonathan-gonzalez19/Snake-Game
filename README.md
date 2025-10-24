@@ -29,8 +29,5 @@ The goal is simple: guide the snake to eat the food, grow as long as possible, a
     * **Left:** `ArrowLeft` 
     * **Right:** `ArrowRight`
 
-## Technologies Used
 
-* [Language 1, e.g., Python]
-* [Framework/Library 1, e.g., Tutrtle]
 
