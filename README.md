@@ -22,8 +22,7 @@ The goal is simple: guide the snake to eat the food, grow as long as possible, a
     git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
     ```
 2.  **Run the game:**
-    * *(Example for Python):* `python main.py`
-    * *(Example for JavaScript/Web):* `Open index.html in your browser.`
+    `python main.py`
 3.  **Controls:**
     * **Up:** `ArrowUp` or `W`
     * **Down:** `ArrowDown` or `S`
