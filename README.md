@@ -1,6 +1,6 @@
 # 🐍 Classic Snake Game
 
-This is a complete, classic implementation of the Snake game, built Python and Turtle 
+This is a complete, classic implementation of the Snake game, built Python using the Turtle library
 
 The goal is simple: guide the snake to eat the food, grow as long as possible, and avoid running into the walls or your own tail!
 
